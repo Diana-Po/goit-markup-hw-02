@@ -69,8 +69,14 @@ ul {
   color: #fff;
 }
 .main-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
   color: #fff;
   background: #4d5ae5;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+
   cursor: pointer;
 }
 .main-button:hover,
@@ -92,13 +98,21 @@ ul {
   color: #434455;
 }
 
+.our-team {
+  background-color: #f4f4fd;
+}
+
 .title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
+}
+.description {
+  background-color: #ffffff;
 }
 .team-features {
   font-weight: 500;
