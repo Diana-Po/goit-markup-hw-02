@@ -38,11 +38,10 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-.header-navigation-list {
   font-weight: 500;
   color: #2e2f42;
 }
+
 .header-navigation-list a:hover,
 .header-navigation-list a:focus {
   color: #404bbf;
@@ -50,6 +49,7 @@ ul {
 
 .header-address {
   font-weight: 400;
+  font-style: normal;
   color: #434455;
 }
 .header-address-list a:hover,
