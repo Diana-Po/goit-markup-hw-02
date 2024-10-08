@@ -42,6 +42,9 @@ ul {
   color: #2e2f42;
 }
 
+.header-navigation-list {
+  color: #2e2f42;
+}
 .header-navigation-list a:hover,
 .header-navigation-list a:focus {
   color: #404bbf;
