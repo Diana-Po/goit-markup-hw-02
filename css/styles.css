@@ -52,8 +52,8 @@ ul {
   font-weight: 400;
   color: #434455;
 }
-.header-address a:hover,
-.header-address a:focus {
+.header-address-list a:hover,
+.header-address-list a:focus {
   color: #404bbf;
 }
 
