@@ -34,7 +34,7 @@ ul {
 .header-logo .header-logo-font:active {
   color: #404bbf;
 }
-.header-navigation {
+.header-navigation a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
