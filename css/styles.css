@@ -119,6 +119,7 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  background-color: #ffffff;
 }
 .team-features-text {
   font-weight: 400;
@@ -126,6 +127,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  background-color: #ffffff;
 }
 .title-portfolio {
   font-weight: 700;
