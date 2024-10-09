@@ -41,6 +41,9 @@ ul {
   font-weight: 500;
   color: #2e2f42;
 }
+.header-navigation-list {
+  color: #2e2f42;
+}
 .header-navigation-list a:hover,
 .header-navigation-list a:focus {
   color: #404bbf;
@@ -51,8 +54,14 @@ ul {
   font-style: normal;
   color: #434455;
 }
-.header-address-list a:hover,
-.header-address-list a:focus {
+.header-address-list {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.header-address-list:hover,
+.header-address-list:focus {
   color: #404bbf;
 }
 
@@ -100,7 +109,9 @@ ul {
 .our-team {
   background-color: #f4f4fd;
 }
-
+.description {
+  background-color: #fff;
+}
 .title {
   font-weight: 700;
   font-size: 36px;
